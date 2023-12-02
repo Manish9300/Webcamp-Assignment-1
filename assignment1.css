@@ -1,0 +1,234 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    height:80px;
+    background-color:#ACECE8;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.header2{
+    margin-top:10px;
+    list-style:none;
+    display: flex;
+    gap: 56px;
+    font-size:15px;
+}
+li:hover{
+    cursor: pointer;
+}
+.lawminelogo{
+    width: 210px;
+    height: 60px;
+}
+.banner1{
+    height:450px;
+    background-color: rgb(24, 115, 109);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.lawyer{
+    height:650px;
+}
+.lawyerimg{
+    margin-top: 200px;
+    padding-right:5%;
+}
+.findlawyer{
+    padding-left:10%;
+    padding-right: 10%;
+    text-align:left;
+    font-weight:bold;
+    font-family: 'Montagu Slab', serif;
+    color:rgba(231, 221, 221, 0.836);
+}
+#title{
+    font-weight: bold;
+    font-size: 80px;
+    color:white;
+}
+button{
+    font-weight:bold;
+    color:white;
+    padding: 20px;
+    background-color:#092D43;
+    border:none;
+    border-radius:10px;
+}
+button:hover{
+    cursor:pointer;
+    background-color: rgb(6, 33, 49);
+}
+/* .johndoe{
+    background-color: white;
+    padding: 50px;
+    border:none;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+} */
+#imgandbanner{
+    position:relative;
+}
+.banner2{
+    height:600px;
+    background-color: #CBF1EF;
+    display:flex;
+    justify-content:space-around;
+    align-items: center; 
+}
+.par-div{
+    margin-right:10px;
+}
+.para{
+    font-family: 'Poppins', sans-serif;
+    padding-right: 20px;
+}
+.box{
+    height:200px;
+    width:250px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top:20px;
+    margin-left:25px;
+    padding:5px;
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    align-items: center;
+}
+
+.whatweprovide{
+    align-items: center;
+    margin-left: 125px;
+}
+.box-container{
+    margin-left: 15px;
+    display:flex;
+    flex-wrap:wrap;
+}
+.title2{
+    font-weight:bold;
+    font-size:55px;
+    color:#18736D;
+    font-family: 'Montagu Slab', serif;
+}
+.number{
+    margin-left:20px;
+    font-size: 120px;
+    color:#918e8e9a;
+}  
+h4{
+    color:#18736D;
+    font-family: 'Montagu Slab', serif;
+}
+.banner3{
+    height:450px;
+    background-color: #F2F7FF;
+}
+.banner3heading{
+    text-align: center;
+    font-weight:bold;
+    font-family: 'Montagu Slab', serif;
+}
+.review-container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.review{
+    justify-content: center;
+    align-items: center;
+}
+.hisreview{
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold;
+    font-size: 12px;
+    text-align: center;
+    width:500px;
+    height:170px;
+    background-color: white;
+    border-radius:20px;
+}
+.designation{
+    display:flex;
+    justify-content: center;
+    gap:10px;
+    align-items: center;
+}
+h6{
+    font-size:20px;
+}
+.banner3button{
+    margin-left:560px;
+    margin-right:0px;
+    width:150px;
+    height:50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold;
+    color:white;
+    padding: 10px;
+    background-color:#094B72;
+    border:none;
+    border-radius:10px;
+}
+.banner3button:hover{
+    cursor:pointer;
+    background-color: rgb(6, 33, 49);
+}
+.banner4{
+    height: 300px;
+}
+.contentbn4{
+    font-size: 18px;
+    padding: 10px 400px 10px 400px;
+    text-align: center;
+}
+.call{
+    display:flex;
+}
+.call-sign{
+    margin-top:14px;
+    margin-right:50px;
+    margin-left:580px;
+    padding:0px;
+    position:absolute;
+}
+#call-button{
+    align-items: center;
+    text-align:center;
+}
+footer{
+    height:300px;
+    margin:0px;
+    padding:0px;
+    background-color: #18736D; 
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.end{
+    display:flex;
+    justify-content: space-between;
+    align-items:stretch;
+    gap:100px;
+    list-style:none; 
+}
+.footer-title{
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+.options{
+    font-family: 'Inter', sans-serif;
+}
+.socials{
+    display:flex;
+    gap:10px;
+}
+.socialmedia:hover{
+    cursor: pointer;
+}
