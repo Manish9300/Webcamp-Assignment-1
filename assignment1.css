@@ -205,7 +205,7 @@ footer{
     height:300px;
     margin:0px;
     padding:0px;
-    background-color: #18736D; 
+    background-color: #1b8f87; 
     color: white;
     display:flex;
     justify-content: space-around;
@@ -220,6 +220,7 @@ footer{
 }
 .footer-title{
     font-weight: bold;
+    color: white;
     font-family: 'Inter', sans-serif;
 }
 .options{
